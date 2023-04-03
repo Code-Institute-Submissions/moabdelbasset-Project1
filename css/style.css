@@ -79,11 +79,13 @@ header #menu a:hover {
 } */
 
 .section {
-    background-color: red;
+    background-color: rgb(120, 24, 24);
     padding: 10px;
     margin: 50px 0; /* Add some space between the sections */
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
     overflow: auto;
     
   }
@@ -99,7 +101,7 @@ header #menu a:hover {
 } */
 
 #text-left {
-    background-color: red; /* Adjust the background color as needed */
+    background-color: inherit /* Adjust the background color as needed */
     color: #fff; /* White text color */
     /* padding: 0%; */
     padding-top: 30px;
@@ -109,6 +111,8 @@ header #menu a:hover {
     float: left;
     height: auto;
     overflow: visible;
+    flex-grow: 1;
+    flex-basis: 160px;
    
 }
 #text-left p {
@@ -124,6 +128,8 @@ header #menu a:hover {
     background: url('/images/john-arano-h4i9G-de7Po-unsplash.jpg') no-repeat center center;
     overflow: visible;
     padding-top: 30px;
+    flex-grow: 1;
+    flex-basis: 160px;
 }
 
 
