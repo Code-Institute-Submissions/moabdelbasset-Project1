@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     border: none;
-    
+
 }
 
 body {
@@ -14,10 +14,11 @@ body {
     font-weight: 300;
     color: #f2f2f2;
     background-color: black;
-    
+
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: Oswald, 'Open Sans';
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -32,20 +33,21 @@ header #logo {
 header #menu {
     font-size: 110%;
     letter-spacing: 4px;
-    
+
 }
 
-header #menu, #logo {
+header #menu,
+#logo {
     line-height: 75px;
     min-height: 100px;
 }
 
- header #menu li {
+header #menu li {
     float: right;
-    list-style-type: none; 
+    list-style-type: none;
     margin-right: 30px;
-    
-} 
+
+}
 
 header #menu a {
     text-decoration: none;
@@ -81,19 +83,20 @@ header #menu a:hover {
 .section {
     background-color: rgb(120, 24, 24);
     padding: 10px;
-    margin: 50px 0; /* Add some space between the sections */
+    margin: 50px 0;
+    /* Add some space between the sections */
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     gap: 16px;
     overflow: auto;
-    
-  }
- 
- .section1 {
+
+}
+
+.section1 {
     float: inline-start;
-    
- } 
+
+}
 
 /* #lift-outer {
     display: flex;
@@ -102,8 +105,10 @@ header #menu a:hover {
 } */
 
 #text-left {
-    background-color: inherit; /* Adjust the background color as needed */
-    color: #fff; /* White text color */
+    background-color: inherit;
+    /* Adjust the background color as needed */
+    color: #fff;
+    /* White text color */
     /* padding: 0%; */
     padding-top: 30px;
     margin-right: 20px;
@@ -115,8 +120,9 @@ header #menu a:hover {
     flex-grow: 1;
     flex-basis: 160px;
     font-size: 120%;
-   
+
 }
+
 #text-left p {
     margin: 0;
     word-wrap: break-word;
@@ -147,15 +153,21 @@ header #menu a:hover {
     
 } */
 
+
 #services {
     height: 900px;
- 
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+
 }
 
 #services h1 {
-    margin-bottom: 1100px;
+    
     font-size: 24px;
     font-weight: bold;
+    flex-grow: 1;
 }
 
 #left-about {
@@ -178,6 +190,8 @@ header #menu a:hover {
     clear: both;
     margin-bottom: 50px;
     margin-right: 50px;
+    flex-grow: 1;
+    flex-basis: 200px;
 }
 
 .right-about-heading {
@@ -186,6 +200,8 @@ header #menu a:hover {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    flex-grow: 1;
+    flex-basis: 200px;
 }
 
 .right-about-heading h2 {
@@ -200,15 +216,17 @@ label {
     display: block;
     font-weight: bold;
     margin-top: 10px;
-  }
-  
-  input[type="text"], input[type="tel"], textarea {
+}
+
+input[type="text"],
+input[type="tel"],
+textarea {
     width: 100%;
     padding: 5px;
     margin-top: 5px;
-  }
-  
-  button {
+}
+
+button {
     display: inline-block;
     background-color: #333;
     color: #fff;
@@ -217,15 +235,9 @@ label {
     cursor: pointer;
     border: none;
     font-size: 16px;
-  }
-  
-  button:hover {
+}
+
+button:hover {
     background-color: #555;
-  }
+}
 
-  #nutrition img {
-    width: 100%;
-    height: 400px;
-    overflow: visible;
-
-  }
