@@ -241,3 +241,45 @@ button:hover {
     background-color: #555;
 }
 
+/* Table */
+.schedule-content {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+
+}
+
+.image-container {
+    position: relative;
+}
+.fadding-image {
+    display: block;
+    width: 600px;
+    height: auto;
+}
+
+
+.schedule {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    align-content: first baseline;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  thead {
+    background-color: #000000;
+    font-weight: bold;
+  }
