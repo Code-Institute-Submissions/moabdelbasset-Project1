@@ -283,3 +283,17 @@ button:hover {
     background-color: #000000;
     font-weight: bold;
   }
+
+.register {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.register label, input, select {
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    padding: 5px;
+}

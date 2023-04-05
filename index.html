@@ -218,7 +218,31 @@
                 </div>
             </div>
         </section>
-        <section class="section">Register</section>
+        <section class="section">
+            <form class="register" action="submitForm" method="POST">
+                <label for="firstName">First Name:</label>
+                <input type="text" id="firstName" name="firstName" required><br><br>
+                <label for="lastName">Last Name:</label>
+                <input type="text" id="lastName" name="lastName" required><br><br>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required><br><br>
+
+                <label for="mobileNumber">Mobile Number:</label>
+                <input type="tel" id="mobileNumber" name="mobileNumber" pattern="[0-9]{10}" required>
+                <small>Format: 1234567890</small><br><br>
+
+                <label for="dropdownMenu">Options:</label>
+                <select id="dropdownMenu" name="dropdownMenu">
+                    <option value="option1">Option 1</option>
+                    <option value="option2">Option 2</option>
+                    <option value="option3">Option 3</option>
+                    <option value="option4">Option 4</option>
+                </select><br><br>
+
+                <input type="submit" value="Submit">
+            </form>
+        </section>
     </main>
     <footer>
         Add Social media link here
