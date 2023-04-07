@@ -214,34 +214,32 @@
                     </table>
                 </div>
                 <div class="image-container">
-                    <img class="fadding-image" src="/images/bkimg2.jpg" alt="My fadding image">
+                    <img class="fadding-image" src="/images/register.jpg" alt="superman">
                 </div>
             </div>
         </section>
         <section class="section">
-            <form class="register" action="submitForm" method="POST">
-                <label for="firstName">First Name:</label>
-                <input type="text" id="firstName" name="firstName" required><br><br>
-                <label for="lastName">Last Name:</label>
-                <input type="text" id="lastName" name="lastName" required><br><br>
-
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required><br><br>
-
-                <label for="mobileNumber">Mobile Number:</label>
-                <input type="tel" id="mobileNumber" name="mobileNumber" pattern="[0-9]{10}" required>
-                <small>Format: 1234567890</small><br><br>
-
-                <label for="dropdownMenu">Options:</label>
-                <select id="dropdownMenu" name="dropdownMenu">
-                    <option value="option1">Option 1</option>
-                    <option value="option2">Option 2</option>
-                    <option value="option3">Option 3</option>
-                    <option value="option4">Option 4</option>
-                </select><br><br>
-
-                <input type="submit" value="Submit">
-            </form>
+            <div class="register-section">
+                <div class="register-form">
+                    <h1>Ready to become a member and Unleash your inner strenth sign up below</h1>
+                    <form>
+                        <input type="text" placeholder="Full Name" required>
+                        <input type="email" placeholder="Email" required>
+                        <input type="text" placeholder="Mobile Number" required>
+                        <label for="dropdownMenu">Prefered Class:</label>
+                        <select id="dropdownMenu" name="dropdownMenu">
+                            <option value="option1">CrossFit</option>
+                            <option value="option2">HIIT</option>
+                            <option value="option3">Yoga</option>
+                            <option value="option4">Strength Training</option>
+                        </select>
+                        <button type="submit">Sign Up</button>
+                    </form>
+                </div>
+                <div class="image-container-reg">
+                    <img src="/images/bkimg2.jpg" alt="battle-rope">
+                </div>
+            </div>
         </section>
     </main>
     <footer>
