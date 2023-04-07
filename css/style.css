@@ -63,6 +63,11 @@ header #menu a:hover {
     border-bottom: 1px solid #f2f2f2;
 }
 
+header i {
+    color: #fff;
+    float: left;
+    size: 30px;
+}
 /* #lift-outer {
     height: 1048px;
     width: 100%; 
