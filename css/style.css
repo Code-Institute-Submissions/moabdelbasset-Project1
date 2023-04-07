@@ -68,23 +68,6 @@ header i {
     float: left;
     size: 30px;
 }
-/* #lift-outer {
-    height: 1048px;
-    width: 100%; 
-    
-    
-} */
-
-/* #lift-img {
-    height: 1000px;
-    width: 100%;
-    background: url('/images/john-arano-h4i9G-de7Po-unsplash.jpg') no-repeat fixed right;
-    /* animation-name: lift-zoom; 
-    animation-duration: 2s; 
-    animation-fill-mode: forwards; 
-    overflow: hidden;
-
-} */
 
 .section {
     background-color: rgb(120, 24, 24);
@@ -104,11 +87,6 @@ header i {
 
 }
 
-/* #lift-outer {
-    display: flex;
-    align-items: center;
-    padding: 200px 130px 200px 100px;
-} */
 
 #text-left {
     background-color: inherit;
@@ -146,19 +124,7 @@ header i {
     flex-basis: 160px;
 }
 
-
-/* @keyframes lift-zoom {
-    from{
-        transform: scale(1);
-
-    }
-    to {
-        transform: scale(1.02);
-
-    }
-    
-} */
-
+/* Services */
 
 #services {
     height: 600px;
