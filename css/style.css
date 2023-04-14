@@ -25,11 +25,13 @@ h2 {
     letter-spacing: 4px;
     color: #f2f2f2;
 }
+/* logo */
 
 header #logo {
     float: left;
     font-size: 280%;
 }
+/* Menu */
 
 header #menu {
     font-size: 110%;
@@ -69,27 +71,27 @@ header i {
     size: 30px;
 }
 
+/* General rule for sections */
 .section {
     background-color: rgb(120, 24, 24);
     padding: 10px;
     margin: 50px 0;
-    /* Add some space between the sections */
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     gap: 16px;
     overflow: auto;
-    /* Test */
     opacity: 0;
     animation: fadeIn 1s ease-in-out forwards;
 
 }
 
+/*
 .section1 {
     float: inline-start;
 
 }
-
+*/
 
 #text-left {
     background-color: inherit;
@@ -186,6 +188,8 @@ header i {
 .right-about-heading p {
     text-align: left;
 }
+
+/* Contact us */
 
 label {
     display: block;
