@@ -321,6 +321,26 @@ button:hover {
   background-color: #555;
 }
 
+  /* footer */
+  .footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  .footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 24px;
+  }
+
+  .footer a:hover {
+    color: #ccc;
+  }
+
+
 /* Media query */
 @media screen and (max-width: 768px) {
   .section1-content {
