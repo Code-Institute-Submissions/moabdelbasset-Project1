@@ -284,6 +284,42 @@ thead {
   display: block;
 }
 
+/* Section 5 */
+
+.section5 {
+  background-color: rgb(120, 24, 24);
+  margin-bottom: 50px; 
+  width: fit-content;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+input[type="text"],
+input[type="tel"],
+textarea {
+  width: 100%;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+button {
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  padding: 8px 16px;
+  margin-top: 10px;
+  cursor: pointer;
+  border: none;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #555;
+}
 
 /* Media query */
 @media screen and (max-width: 768px) {
