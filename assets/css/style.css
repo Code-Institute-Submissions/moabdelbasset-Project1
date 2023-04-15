@@ -120,7 +120,7 @@ header #menu a:hover {
   padding-top: 20px;
 }
 
-.section1-image-container {
+.section1-image-container, .section1-iframe-container {
   flex: 1 1 50%;
 }
 
@@ -128,6 +128,15 @@ header #menu a:hover {
   width: 100%;
   height: auto;
   padding-top: 20px;
+
+}
+
+.section1-iframe {
+  width: 890px;
+  height: 560px;
+  max-width: 100%;
+  padding-top: 20px;
+  padding-left: 25px;
 
 }
 
