@@ -110,7 +110,7 @@ header #menu a:hover {
 
 .section1-content h1 {
   flex: 1 1 100%;
-  text-align: center;
+  text-align: left;
   padding-bottom: 20px;
 }
 
