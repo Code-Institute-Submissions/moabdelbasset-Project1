@@ -166,6 +166,54 @@ header #menu a:hover {
   margin-bottom: 20px;
 }
 
+/* Section3 */
+.section3 {
+  background-color: rgb(120, 24, 24);
+  margin-bottom: 50px; 
+  width: fit-content;
+}
+
+.section3-content {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 50px;
+}
+
+.image-container {
+  position: relative;
+}
+.fadding-image {
+  align-items: center;
+  width: 700px;
+  height: auto;
+  display: block;
+}
+
+.schedule {
+  width: 100%;
+  /*max-width: 900px;*/
+  margin: 0 auto;
+  align-content: first baseline;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+thead {
+  background-color: #000000;
+  font-weight: bold;
+}
 
 /* Media query */
 @media screen and (max-width: 768px) {
