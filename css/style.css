@@ -130,6 +130,18 @@ header #menu a:hover {
 }
 
 /* Section 2 */
+/*
+.section2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.left-about-heading {
+  flex-basis: calc(25% - 20px);
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+*/
 
 /* Media query */
 @media screen and (max-width: 768px) {
