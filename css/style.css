@@ -341,6 +341,38 @@ button:hover {
   }
 
 
+   /* Adding animation to sections */
+
+   @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+ .section1 {
+    background-color: rgb(120, 24, 24);
+    animation-delay: 0s;
+  }
+  .section2 {
+    background-color: rgb(120, 24, 24);
+    animation-delay: 0.5s;
+  }
+  .section3 {
+    background-color: rgb(120, 24, 24);
+    animation-delay: 1s;
+  }
+  .section4 {
+    background-color: rgb(120, 24, 24);
+    animation-delay: 1.5s;
+  }
+  .section5 {
+    background-color: rgb(120, 24, 24);
+    animation-delay: 2s;
+  } 
+
 /* Media query */
 @media screen and (max-width: 768px) {
   .section1-content {
