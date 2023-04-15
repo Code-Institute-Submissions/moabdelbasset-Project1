@@ -95,6 +95,8 @@ header #menu a:hover {
 
 .section1 {
   background-color: rgb(120, 24, 24);
+  margin-top: 20px;
+  margin-bottom: 50px; 
 }
 
 .section1-content {
@@ -130,10 +132,32 @@ header #menu a:hover {
 }
 
 /* Section 2 */
-/*
+
 .section2 {
+  background-color: rgb(120, 24, 24);
+  margin-bottom: 50px; 
+}
+
+.section2-content {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: stretch;
+  padding: 20px;
+}
+
+.section2-content h1 {
+  flex: 1 1 100%;
+  text-align: left;
+  padding-bottom: 20px;
+}
+
+.section2 img{
+  width: 100%;
+  height: auto;
+  margin-top: 15px;
+
 }
 
 .left-about-heading {
@@ -141,7 +165,7 @@ header #menu a:hover {
   margin-right: 20px;
   margin-bottom: 20px;
 }
-*/
+
 
 /* Media query */
 @media screen and (max-width: 768px) {
