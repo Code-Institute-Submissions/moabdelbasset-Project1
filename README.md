@@ -122,9 +122,11 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 
 
-
-
-
+## Credits 
+* [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+* [Flex box froggy](https://flexboxfroggy.com/)
+* [Flex box responsive](https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_responsive)
+* [HTML iframe tag](https://www.w3schools.com/tags/tag_iframe.ASP#:~:text=Definition%20and%20Usage,attribute%20for%20the%20.)
 
 
            
