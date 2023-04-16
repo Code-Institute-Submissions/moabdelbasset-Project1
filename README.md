@@ -107,6 +107,22 @@ Testing was focused to ensure the following criteria were met:
 [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-moabdelbasset-project1-lqc2vxzvogh.ws-eu94.gitpod.io%2F) too was used to check the html and CSS and found no errors
 
 
+## Deployment
+
+### Version Control
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+* From the source section drop-down menu, select the Master Branch
+* Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+* The site was created using the Visual Studio code editor and pushed to github to the remote repository ‘Project1’.
+* The following git commands were used throughout development to push code to the remote repo:
+    * ```git add <file>``` - This command was used to add the file(s) to the staging area before they are committed.
+    * ```git commit -m “commit message”``` - This command was used to commit changes to the local repository queue ready for the final step.
+    * ```git push``` - This command was used to push all committed code to the remote repository on github.
+
+
+
+
 
 
 
