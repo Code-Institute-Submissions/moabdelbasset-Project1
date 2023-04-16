@@ -351,7 +351,7 @@ button:hover {
 
 
    /* Adding animation to sections */
-
+/* 
    @keyframes fadeIn {
     from {
       opacity: 0;
@@ -381,7 +381,7 @@ button:hover {
     background-color: rgb(120, 24, 24);
     animation-delay: 2s;
   } 
-
+* /
 /* Media query */
 @media screen and (max-width: 768px) {
   .section1-content {
