@@ -13,11 +13,14 @@ Our Gym is a crossfit gym that offers a range of services to help you achieve yo
     * Contains navigation links to Who we are, Services, Schedule, Register and Contact Us sections.
     * Easier for user to jump to sections quickly.
 ![Nav Menu](docs/readme_imges/navigate_bar.JPG)    
+
 * Footer: 
     * Access the gym page on social media websites such as Facebook and instagram.
-![Footer](docs/readme_imges/footer.JPG)    
+![Footer](docs/readme_imges/footer.JPG)  
+
 * Favicon: 
     * Used a dumbbell logo as the gym logo that will appear to the user when in the browser tab
+![Favicon](docs/readme_imges/icons8-dumbbell-96.png)    
 
 ### Landing page 
 * The website landing page is divided into 5 sections
@@ -93,9 +96,9 @@ Testing was focused to ensure the following criteria were met:
 - Aria properties have been implemented correctly
 - WCAG 2.1 Coding best practices being followed
 
-[W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-moabdelbasset-project1-lqc2vxzvogh.ws-eu94.gitpod.io%2F) too was used to check the html and found the followin error:
+[W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-moabdelbasset-project1-lqc2vxzvogh.ws-eu94.gitpod.io%2F) too was used to check the html and CSS and found no errors
 
-- Error: The frameborder attribute on the iframe element is obsolete. Use CSS instead.
+
 
 
 
