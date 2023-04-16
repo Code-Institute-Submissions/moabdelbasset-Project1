@@ -30,11 +30,13 @@ Our Gym is a crossfit gym that offers a range of services to help you achieve yo
     * Section 2 (Our services): This section gives a brief on what services we offer so customers can choose from these services the one suits his needs.
     ![Our services](docs/readme_imges/ourservices.JPG)
     * Section 3 (Schedule): This section contains our schedule  with different class times
-    ![Scedule](docs/readme_images/gymschedule.JPG)
+    ![Schedule](docs/readme_images/gymschedule.JPG)
     * Section 4 (Contact Us): This section contains a form so customer can use if they have a specific question or concern
     ![Contact Us](docs/readme_imges/contactus.JPG)
     * Section 5 (Sign Up): This section for customers who want to sign up for a class
     ![Sign up](docs/readme_imges/signup.png)
+    * When a user uses one of the forms and enter the information it will take him to a page informing him that we have recieved his request.
+    ![Thank you](docs/readme_imges/thankyou.JPG)
 
  ### Existing Features 
  * Responsive design
