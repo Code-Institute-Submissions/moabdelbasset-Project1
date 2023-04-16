@@ -57,6 +57,27 @@ Our Gym is a crossfit gym that offers a range of services to help you achieve yo
 
  ## Testing 
  ### Responsiveness 
+The pages underwent testing to ensure they were responsive across various screen sizes starting from 320px and above. The testing was performed on Chrome, Edge, Firefox, and Opera browsers.
+
+Steps to test:
+1. Open browser and navigate to [Our Gym](https://8000-moabdelbasset-project1-lqc2vxzvogh.ws-eu94.gitpod.io/)
+2. Open the developer tools (right click and inspect)
+3. Decrease the screen width to 320px
+4. Set the zoom to 50%
+5. Click and drag the responsive window to maximum width
+
+Expected:
+Website is responsive on all screen sizes and no images are pixelated or stretched.
+No horizontal scroll is present.
+No elements overlap.
+
+Actual:
+Website was responsive on all screen sizes and no image was pixelated or stretched.
+Horizontal scroll was present because of the schedule section.
+Tested on Iphone 12 and Samsung Galaxy S8.
+
+
+
 
 
            
