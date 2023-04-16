@@ -10,17 +10,17 @@ Our Gym is a crossfit gym that offers a range of services to help you achieve yo
 ## Site wide
 
 * Navigation links: 
-** Contains navigation links to Who we are, Services, Schedule, Register and Contact Us sections.
-** Easier for user to jump to sections quickly.
+    * Contains navigation links to Who we are, Services, Schedule, Register and Contact Us sections.
+    * Easier for user to jump to sections quickly.
 * Footer: 
-** Access the gym page on social media websites such as Facebook and instagram.
+    * Access the gym page on social media websites such as Facebook and instagram.
 * Favicon: 
-** Used a dumbbell logo as the gym logo that will appear to the user when in the browser tab
+    * Used a dumbbell logo as the gym logo that will appear to the user when in the browser tab
 
 ## Landing page
 * The website landing page is divided into 5 sections
-** Section 1 (Who we are): This section gives a breif on our gym facility and what we offer and contains a video explaining the crossfit sport.
-** Section 2 (Our services): This section gives a brief on what services we offer so customers can choose from these services the one suits his needs.
-** Section 3 (Schedule): This section contains our schedule  with different class times
-** Section 4 (Contact Us): This section contains a form so customer can use if they have a specific question or concern
-** Section 5 (Sign Up): This section for customers who want to sign up for a class
+    * Section 1 (Who we are): This section gives a breif on our gym facility and what we offer and contains a video explaining the crossfit sport.
+    * Section 2 (Our services): This section gives a brief on what services we offer so customers can choose from these services the one suits his needs.
+    * Section 3 (Schedule): This section contains our schedule  with different class times
+    * Section 4 (Contact Us): This section contains a form so customer can use if they have a specific question or concern
+    * Section 5 (Sign Up): This section for customers who want to sign up for a class
