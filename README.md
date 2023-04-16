@@ -37,4 +37,21 @@ Our Gym is a crossfit gym that offers a range of services to help you achieve yo
  * The contact form and the sign up form will be saving the customer information in a database using JavaScript
  * 404 page to be added later
 
+## Technologies ##
+* HTML
+    * The structure of the Website was developed using HTML as the main language.
+* CSS
+    * The Website was styled using custom CSS in an external file.
+* Visual Studio Code
+    * The website was developed using Visual Studio Code IDE
+* GitHub
+    * Source code is hosted on GitHub and delpoyed using Git Pages.
+* Git
+    * Used to commit and push code during the development opf the Website
+* Tinyjpg
+    * https://tinyjpg.com/ was used to reduce the size of the images used throughout the website
+* favicon.io
+    * favicon files were created 
+* pexels.com
+    * https://www.pexels.com/ was used to get the images for my website                
    
