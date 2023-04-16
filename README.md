@@ -104,7 +104,8 @@ Testing was focused to ensure the following criteria were met:
 - Aria properties have been implemented correctly
 - WCAG 2.1 Coding best practices being followed
 
-[W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-moabdelbasset-project1-lqc2vxzvogh.ws-eu94.gitpod.io%2F) too was used to check the html and CSS and found no errors
+[W3C Validator](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2F8000-moabdelbasset-project1-lqc2vxzvogh.ws-eu94.gitpod.io%2F) too was used to check the html and CSS and found no errors
+![W3C Validator](docs/images/validator.JPG)
 
 
 ## Deployment
