@@ -24,3 +24,17 @@ Our Gym is a crossfit gym that offers a range of services to help you achieve yo
     * Section 3 (Schedule): This section contains our schedule  with different class times
     * Section 4 (Contact Us): This section contains a form so customer can use if they have a specific question or concern
     * Section 5 (Sign Up): This section for customers who want to sign up for a class
+
+ ## Existing Features:
+ * Responsive design
+ * Iframes to include video introductory to the sport
+ * Contact form for specifc questions or comments
+ * Sign up form to choose between classes
+ * Success pages for the sign up and the contact us
+
+ ## Features left to Implement:
+ * Adding some animation to the website using Java Script
+ * The contact form and the sign up form will be saving the customer information in a database using JavaScript
+ * 404 page to be added later
+
+   
