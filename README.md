@@ -12,8 +12,10 @@ Our Gym is a crossfit gym that offers a range of services to help you achieve yo
 * Navigation links: 
     * Contains navigation links to Who we are, Services, Schedule, Register and Contact Us sections.
     * Easier for user to jump to sections quickly.
+![Nav Menu](docs/readme_imges/navigate_bar.JPG)    
 * Footer: 
     * Access the gym page on social media websites such as Facebook and instagram.
+![Footer](docs/readme_imges/footer.JPG)    
 * Favicon: 
     * Used a dumbbell logo as the gym logo that will appear to the user when in the browser tab
 
