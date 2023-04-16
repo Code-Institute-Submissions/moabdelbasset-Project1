@@ -20,15 +20,21 @@ Our Gym is a crossfit gym that offers a range of services to help you achieve yo
 
 * Favicon: 
     * Used a dumbbell logo as the gym logo that will appear to the user when in the browser tab
+
 ![Favicon](docs/readme_imges/icons8-dumbbell-96.png)    
 
 ### Landing page 
 * The website landing page is divided into 5 sections
-    * Section 1 (Who we are): This section gives a breif on our gym facility and what we offer and contains a video explaining the crossfit sport.
+    * Section 1 (Who we are): This section gives a breif on our gym facility and what we offer and contains a video explaining more information about crossfit sport.
+    ![Who we are section](docs/readme_imges/whoweare.JPG)
     * Section 2 (Our services): This section gives a brief on what services we offer so customers can choose from these services the one suits his needs.
+    ![Our services](docs/readme_imges/ourservices.JPG)
     * Section 3 (Schedule): This section contains our schedule  with different class times
+    ![Scedule](docs/readme_images/gymschedule.JPG)
     * Section 4 (Contact Us): This section contains a form so customer can use if they have a specific question or concern
+    ![Contact Us](docs/readme_imges/contactus.JPG)
     * Section 5 (Sign Up): This section for customers who want to sign up for a class
+    ![Sign up](docs/readme_imges/signup.png)
 
  ### Existing Features 
  * Responsive design
