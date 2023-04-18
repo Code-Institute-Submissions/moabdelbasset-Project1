@@ -19,6 +19,7 @@ html {
 
 main {
     flex: 1 0 auto;
+    overflow: hidden;
 }
 
 body {
@@ -380,6 +381,19 @@ button:hover {
     width: 90%;
     margin-top: 10px;
   }
+
+  .section3-content {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .section3-image {
+    align-items: center;
+    width: 100%;
+    height: auto;
+  }
+  
 
 }
 
