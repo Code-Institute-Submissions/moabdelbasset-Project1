@@ -394,6 +394,10 @@ button:hover {
     height: auto;
   }
   
+  ul {
+    flex-direction: column;
+
+  }
 
 }
 
