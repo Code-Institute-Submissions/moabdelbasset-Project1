@@ -181,7 +181,8 @@ header #menu a:hover {
 .section3 {
   background-color: rgb(120, 24, 24);
   margin-bottom: 50px; 
-  width: fit-content;
+  /* width: fit-content; */
+  overflow-x: scroll;
 }
 
 .section3-content {
@@ -367,6 +368,17 @@ button:hover {
   .section4-image-container img {
     max-width: 100%;
     height: auto;
+  }
+
+  .register-section {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .section4-image-container {
+    width: 90%;
+    margin-top: 10px;
   }
 
 }
