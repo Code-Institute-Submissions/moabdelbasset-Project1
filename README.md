@@ -27,13 +27,13 @@ Our Gym is a crossfit gym that offers a range of services to help you achieve yo
 * The website landing page is divided into 5 sections
     * Section 1 (Who we are): This section gives a breif on our gym facility and what we offer and contains a video explaining more information about crossfit sport.
     ![Who we are section](docs/readme_imges/whoweare.JPG)
-    * Section 2 (Our services): This section gives a brief on what services we offer so customers can choose from these services the one suits his needs.
+    * Section 2 (Our services): This section gives a brief on what services we offer so customers can choose from these services the one suits his needs. The services we offer is nutrition services where customer can have a nutrition plan that meet his needs. Online programing for experienced atheletes who can train by themselves communicating with our coaches online. One-to-One session where customer can have a private trainer. Group session is the group classes that we have everyday.
     ![Our services](docs/readme_imges/ourservices.JPG)
-    * Section 3 (Schedule): This section contains our schedule  with different class times
+    * Section 3 (Schedule): This section contains our schedule  with different class times so users can login to our page and know what time will be the session and what type of classes.
     ![Schedule](docs/readme_imges/gymschedule.JPG)
-    * Section 4 (Contact Us): This section contains a form so customer can use if they have a specific question or concern
+    * Section 4 (Contact Us): This section contains a form so customer can use if they have a specific question or concern. The form takes first name, last name, mobile no and mail address. When the user clicks on submit they should be redirected to a page informing them that we have recieved their request and the sales department will contact them shortly
     ![Contact Us](docs/readme_imges/contactus.JPG)
-    * Section 5 (Sign Up): This section for customers who want to sign up for a class
+    * Section 5 (Sign Up): This section for customers who want to sign up for a class. The for takes name , mobile no, mail address, and the preferred classes. once the user enters his information and click on submit. They should be re-directed to a page informing them that we have recieved their request.
     ![Sign up](docs/readme_imges/signup.png)
     * When a user uses one of the forms and enter the information it will take him to a page informing him that we have recieved his request.
     ![Thank you](docs/readme_imges/thankyou.JPG)
