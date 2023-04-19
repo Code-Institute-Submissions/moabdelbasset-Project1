@@ -1,4 +1,4 @@
-/* Photo by Victor Freitas from Pexels: https://www.pexels.com/photo/person-holding-black-and-silver-steel-barbell-photography-949126/ */
+
 
 /* Generic Styles */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
@@ -37,14 +37,6 @@ h1, h2 {
     color: #f2f2f2;
 }
 
-/*
-div {
-  display: flex;
-  flex-wrap: wrap;
-}
-*/
-
-/* Menu and logo */
 header {
   display: flex;
   justify-content: space-between;
@@ -134,8 +126,6 @@ header #menu a:hover {
 }
 
 .section1-iframe {
-  /* width: 890px;
-  height: 560px; */
   width: 100%;
   height: 100%;
   max-width: 100%;
@@ -184,7 +174,6 @@ header #menu a:hover {
 .section3 {
   background-color: rgb(120, 24, 24);
   margin-bottom: 50px; 
-  /* width: fit-content; */
   overflow-x: scroll;
 }
 
@@ -238,7 +227,7 @@ thead {
 .register-section {
   display: flex;
   justify-content: space-between;
-  align-items: stretch; /* Align items to the top of the container */
+  align-items: stretch; 
   width: 100%;
   background-color: rgb(120, 24, 24);
   padding: 20px;
