@@ -107,8 +107,24 @@ Testing was focused to ensure the following criteria were met:
 ![Wave Accessibility](docs/readme_imges/wave.png)
 
 [W3C Validator](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2F8000-moabdelbasset-project1-lqc2vxzvogh.ws-eu94.gitpod.io%2F) too was used to check the html and CSS and found no errors
-![W3C Validator](docs/readme_imges/validator.JPG)
+![W3C HTML Validator](docs/readme_imges/validator.JPG)
+![W3C CSS Validatior](docs/readme_imges/css_validation.JPG)
 
+
+Navigation Accessibility: Navigation bar was tested on the main page and confirmed that it's redirecting me to the section needed
+
+Forms tests: We have 2 forms in the website the testing included the follows:
+- All fields are required and if a user tris to submit without filling all the form it will not proceed submitting the form
+![Contact Us Form test](docs/readme_imges/form1_test.JPG)
+![Sign up Form test](docs/readme_imges/form2_test.JPG)
+- The mobile number field will accept only numbers
+- The mail field will accept mail form 'user@domain'
+- Once you click submit you will be directed to a page mentioning that the request was received.
+- From this page you can click on the nav bar to go back to the section you want.
+
+Footer tests:
+- Tested that the facebook footer icon opens facebook page from all html pages.
+- Tested that the instagram footer icon opens instagram page from all html pages.
 
 ## Deployment
 
@@ -118,6 +134,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 * From the source section drop-down menu, select the Master Branch
 * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 * The site was created using the Visual Studio code editor and pushed to github to the remote repository ‘Project1’.
+
+### Git commands used
 * The following git commands were used throughout development to push code to the remote repo:
     * ```git add <file>``` - This command was used to add the file(s) to the staging area before they are committed.
     * ```git commit -m “commit message”``` - This command was used to commit changes to the local repository queue ready for the final step.
