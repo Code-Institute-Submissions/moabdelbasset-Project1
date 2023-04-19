@@ -131,7 +131,7 @@ Footer tests:
 ### Version Control
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
-* From the source section drop-down menu, select the Master Branch
+* On the settings tab, from the source section down-top menu, select the main branch
 * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 * The site was created using the Visual Studio code editor and pushed to github to the remote repository ‘Project1’.
 
